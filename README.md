@@ -11,3 +11,8 @@ IR senson(GPIO 20).
 4 motors(GPIO 5,6,13,19).
 
 LED(GPIO 4).
+
+
+Backend Used : MQTT Paho(PHP) and Python.
+
+Frontend Used : HTML,CSS,JS.
